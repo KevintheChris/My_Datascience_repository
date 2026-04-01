@@ -19,6 +19,7 @@ Estudante de Analise e desenvolvimento de sistemas no IESB, estou no 3° semestr
 * [Viagens Realizadas à serviço - Portal da Transparência Brasil](https://colab.research.google.com/drive/1qB2nylE1j6pXU523M7VqlEI3B0vQHFvZ?usp=sharing)
 * [Auxiliando os Times de Marketing e Pricing da Empresa de Delivery](https://github.com/KevintheChris/An-lise-de-Dados---Delivery-Center-De-Power-BI-para-Python-)
 * [O que é considerado "ser americano" para o eleitor dos EUA?"](https://github.com/KevintheChris/non-voters-eua)
+* [Taxa de Mortalidade ao longo dos anos](https://github.com/KevintheChris/Taxa-de-mortalidade-ao-longo-dos-anos-/blob/main/death_rate.ipynb)
 
 
 
